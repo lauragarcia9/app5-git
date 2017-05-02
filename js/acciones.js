@@ -9,7 +9,7 @@ navigator.notification.beep(2);
 	
 $('#vibrar').tap(function(){
 navigator.notification.vibrate(1000);
-});//tap beep
+});//tap vibrar
 	
 },false); //deviceready
 }); //ready
